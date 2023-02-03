@@ -2,6 +2,7 @@ const { createInterface } = require('node:readline');
 const { execSync } = require('child_process');
 const fetch = require('node-fetch');
 const { Client, Routes } = require('discord.js');
+const keep_alive = require('./keep_alive.js');
 
 const ping = {
   name: 'ping',
