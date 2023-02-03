@@ -1,7 +1,5 @@
 ### No, it's not "patched"
-I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you probably didn't follow the instructions correctly.
-
-I think people think this is patched because of NoTextToSpeech's video but that video linked to another repository that works a different way, not this one.
+Fork of https://github.com/hackermondev/discord-active-developer-badge but added 24/7 feature (use uptimerobot)
 
 # Active Developer Badge
 Discord just launched the new "Active Developer" badge and they're encouraging new developers to join the community and get it.
@@ -24,7 +22,7 @@ If you're still learning and want the badge, follow the instructions below!
 - Go to the bot tab and generate a bot account for the application.
 - Click the "Reset Token" button to generate a token (if you have 2fa enabled, you'll need your code).
 - Copy the token to your clipboard.
-- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/badge/github/hackermondev/discord-active-developer-badge)](https://replit.com/new/github/hackermondev/discord-active-developer-badge)
+- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/badge/github.com/Gunthersuper/discord-active-developer-badgee)](https://replit.com/new/github/hackermondev/discord-active-developer-badge)
   - You will be redirected to Replit, you might have to create an account (you can Register with Google).
     - Replit is a website, and does not run off your computer! 
 - Wait for the repo has finished cloning and the repl to fully connect.
