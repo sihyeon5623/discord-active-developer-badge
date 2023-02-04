@@ -37,7 +37,7 @@ If you're still learning and want the badge, follow the instructions below!
 - Go to the <https://discord.com/developers/active-developer> page and register everything (**if it says you're not eligible, it's because you're not registered in their system yet. you might have to wait up to 48 hours**).
 - Congrats on that shiny new badge.
 
-- You have to /ping your bot every 30 days to not to lose the badge.
+- You have to /ping your bot every 30 days.
 
 **NOTE:** Make sure you have the “Use data to improve Discord” setting enabled under User Settings > Privacy & Safety otherwise you won't be able to be marked as eligible.
 
