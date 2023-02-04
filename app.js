@@ -35,7 +35,7 @@ client.on('interactionCreate', (interaction) => {
 
 const question = (q) => new Promise((resolve) => rl.question(q, resolve));
 (async ()=>{
-  const token = await question('Application token? ');
+  const token = process.env['token']
   if(!token) throw new Error('Invalid token');
 
   const ratelimitTest = await fetch(`https://discord.com/api/v9/invites/discord-developers`);
